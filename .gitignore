@@ -1,0 +1,20 @@
+# Word 临时文件
+~$*.docx
+~$*.doc
+*.tmp
+*.temp
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 导出文件（如需 Word 导出再单独处理）
+exports/
