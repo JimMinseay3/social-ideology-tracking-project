@@ -32,6 +32,13 @@
 - 克伦肖，交叉性理论
 - 康奈尔，《男性气质》
 
+## 代际关系与家庭社会学
+
+- 曼海姆（Karl Mannheim），《代的问题》（*The Problem of Generations*, 1928）
+- 霍克希尔德（Arlie Russell Hochschild），《第二轮班》（*The Second Shift*, 1989）
+- 阎云翔，《私人生活的变革：一个中国村庄里的爱情、家庭与亲密关系（1949-1999）》
+- 《孝经》
+
 ## Z 世代与数字社会
 
 - （待补充）
