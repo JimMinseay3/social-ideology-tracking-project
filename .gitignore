@@ -18,3 +18,4 @@ desktop.ini
 
 # 导出文件（如需 Word 导出再单独处理）
 exports/
+.claude/
