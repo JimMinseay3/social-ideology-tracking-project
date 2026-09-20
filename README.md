@@ -109,6 +109,28 @@ graph TD
 
 ## 🗺️ 全书大纲
 
+<details>
+<summary><b>📜 前言：为什么写这本书</b></summary>
+
+- 困惑的起点
+- 为什么需要社会学的视角
+- 这本书想做什么
+- 写给谁看
+- 如何阅读这本书
+
+</details>
+
+<details>
+<summary><b>🔧 第零卷：生产力、生产关系与阶级</b></summary>
+
+- 为什么要谈阶级
+- 生产力与生产关系
+- 什么是阶级
+- 阶级如何塑造社会关系
+- 阶级意识与阶级认同
+
+</details>
+
 <details open>
 <summary><b>📖 第一卷：人的二重性——自然性与社会性</b> ✅</summary>
 
@@ -207,6 +229,8 @@ graph TD
 social-ideology-tracking-project/
 │
 ├── 📖 book/                    # 正文卷册
+│   ├── 前言.md
+│   ├── 第零卷 生产力、生产关系与阶级.md
 │   ├── 第一卷 人的二重性.md
 │   ├── 第二卷 社会身份.md
 │   ├── 第三卷 社会关系——亲子关系.md
